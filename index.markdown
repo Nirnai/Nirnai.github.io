@@ -110,7 +110,7 @@ Jobs in agriculture and gastronomy
 ---
 ---
 
-<br>
+<br><br> 
 
 Technical skills
 ================
@@ -137,7 +137,7 @@ M0/M3/M4, AVR ATmega, Arduino, Particle, Raspberry Pi
 ---
 ---
 
-<br> 
+<br><br> 
 
 Area of Expertise
 =================
@@ -163,7 +163,7 @@ Sensor Fusion, Perception and SLAM <br>
 ---
 ---
  
-<br>
+<br><br> 
 
 Language skills
 ===============
@@ -177,7 +177,7 @@ English (fluent) <br>
 ---
 ---
 
-<br>
+<br><br> 
 
 Hobbies
 =======
