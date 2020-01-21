@@ -28,9 +28,9 @@ Education
 **10.2012 - 03.2017** 
 
 **Bachelor of Science in Electrical Engineering, Electronics and Information Technology** <br>
-Friedrich-Alexander-University Erlangen-Nürnberg <br>
-Specialization: Information Technology <br>
-Thesis: "Multicarrier signals for robust distance estimation"<br>
+*Friedrich-Alexander-University Erlangen-Nürnberg* <br>
+*Specialization*: Information Technology <br>
+*Thesis*: "Multicarrier signals for robust distance estimation"<br>
 
 ---
 ---
@@ -38,7 +38,7 @@ Thesis: "Multicarrier signals for robust distance estimation"<br>
 **09.2003 - 07.2011** 
 
 **High-School Diploma (Abitur)** <br>
-Ehrenbürg-Gymnasium-Forchheim
+*Ehrenbürg-Gymnasium-Forchheim*
 
 ---
 ---
