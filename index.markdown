@@ -15,10 +15,10 @@ Education
 ---
 **04.2017 - 01.2020** 
 
-**Master of Science in Electrical Engineering and Information Technology** \\
-*Technical University Munich*\\
-*Specialization*: Automation and Robotics \\
-*Thesis*: "Requirement analysis and evaluation of Reinforcement Learning" \\
+**Master of Science in Electrical Engineering and Information Technology** <br>
+*Technical University Munich* <br>
+*Specialization*: Automation and Robotics <br>
+*Thesis*: "Requirement analysis and evaluation of Reinforcement Learning" <br>
 *Research Project*: "Balance control for the humanoid platform REEM-C" 
 
 ---
@@ -53,10 +53,10 @@ Work experience
 
 **06.2018 - 04.2019** 
 
-**Working student - NavVis, 80636 München**\
-Mapping and Perception Team\
-Containerization of Software applications\
-Deployment with Docker and AWS\
+**Working student - NavVis, 80636 München** <br>
+Mapping and Perception Team <br>
+Containerization of Software applications <br>
+Deployment with Docker and AWS <br>
 Working on ROS Simulation Environment
 
 ---
@@ -64,9 +64,9 @@ Working on ROS Simulation Environment
 
 **11.2017 - 05.2018** 
 
-**Working student - Bragi GmbH, 80331 München**\
-Test Team\
-Implementation and advancement of a simulation platform in C++\
+**Working student - Bragi GmbH, 80331 München** <br>
+Test Team <br>
+Implementation and advancement of a simulation platform in C++ <br>
 Working on Machine Learning Pipeline
 
 ---
@@ -74,31 +74,29 @@ Working on Machine Learning Pipeline
 
 **06.2016 - 09.2016** 
 
-**Intern - Big Ass Solutions, 40511 Lexington KY, USA**\
-R&D department\
-Hard- and software prototyping (Particle, Arduino, C++)\
-Implementation of algorithms in the field of machine learning (Python)\
-Presentation and documentation of developed code (Latex, Jupyter
-Notebook)
+**Intern - Big Ass Solutions, 40511 Lexington KY, USA** <br>
+R&D department <br>
+Hard- and software prototyping (Particle, Arduino, C++) <br>
+Implementation of algorithms in the field of machine learning (Python) <br>
+Presentation and documentation of developed code (Latex, Jupyter Notebook)
 
 ---
 ---
 
 **09.2014 - 10.2015** 
 
-**Working student - Siemens AG, 91052 Erlangen**\
-R&D department\
-Software development in the field of predictive analytics (C++, Bash)\
-Implementation of test cases for new release candidate (Bash, inhouse
-scripting language)
+**Working student - Siemens AG, 91052 Erlangen** <br>
+R&D department <br>
+Software development in the field of predictive analytics (C++, Bash) <br>
+Implementation of test cases for new release candidate (Bash, inhouse scripting language)
 
 ---
 ---
 
 **05.2012 - 07.2012** 
 
-**Intern - Siemens AG, 91052 Erlangen**\
-Repair shop\
+**Intern - Siemens AG, 91052 Erlangen** <br>
+Repair shop <br>
 Repairing frequency converters
 
 ---
@@ -106,7 +104,7 @@ Repairing frequency converters
 
 **10.2011 - 03.2012** 
 
-**Work and Travel - New Zealand**\
+**Work and Travel - New Zealand** <br>
 Jobs in agriculture and gastronomy
 
 ---
@@ -117,15 +115,15 @@ Jobs in agriculture and gastronomy
 Technical skills
 ================
 
-**Programming Languages** \
+**Programming Languages**  <br>
 C, C++, Python, Matlab
 
 ---
 ---
 
-**Frameworks/Libraries** \
-ROS, OpenCV, OpenAI Gym + Mujoco,\
-Numpy/Scipy, TensorFlow, PyTorch,\
+**Frameworks/Libraries** <br>
+ROS, OpenCV, OpenAI Gym + Mujoco,<br>
+Numpy/Scipy, TensorFlow, PyTorch,<br>
 CUDA, scikit-learn
 
 ---
@@ -133,7 +131,7 @@ CUDA, scikit-learn
 
 **Hardware Platforms** 
 
-Universal Robots - UR10, Turtlebot, PAL-Robotics - REEM-C, ARM Cortex
+Universal Robots - UR10, Turtlebot, PAL-Robotics - REEM-C, ARM Cortex <br>
 M0/M3/M4, AVR ATmega, Arduino, Particle, Raspberry Pi
 
 ---
@@ -147,20 +145,20 @@ Area of Expertise
 ---
 ---
 
-**Machine Learning**\
- Shallow Learning, Deep Learning, Reinforcement Learning\
+**Machine Learning** <br>
+ Shallow Learning, Deep Learning, Reinforcement Learning <br>
 
 ---
 ---
 
-**Control**\
-Model Based- and Optimal Control\
+**Control** <br>
+Model Based- and Optimal Control <br>
 
 ---
 ---
 
-**Robotics**\
-Sensor Fusion, Perception and SLAM
+**Robotics** <br>
+Sensor Fusion, Perception and SLAM <br>
 
 ---
 ---
@@ -173,8 +171,8 @@ Language skills
 ---
 ---
 
-German (native language)\
-English (fluent)
+German (native language) <br>
+English (fluent) <br>
 
 ---
 ---
@@ -187,9 +185,9 @@ Hobbies
 ---
 ---
 
-Home automation, DIY-projects in the field of robotics\
-Handball, kitesurfing, skiing, rock climbing\
-Handball coaching\
+Home automation, DIY-projects in the field of robotics <br>
+Handball, kitesurfing, skiing, rock climbing <br>
+Handball coaching <br>
 Playing piano and guitar
 
 ---
