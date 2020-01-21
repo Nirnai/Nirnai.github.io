@@ -14,12 +14,12 @@ Education
 **04.2017 - 01.2020** 
 
 **Master of Science in Electrical Engineering and Information
-Technology**\
-Technical University Munich\
-Specialization: Automation and Robotics\
-Thesis: \"Requirement analysis and evaluation of Reinforcement
-Learning\"\
-Research Project: \"Balance control for the humanoid platform REEM-C\"
+Technology**
+Technical University Munich
+Specialization: Automation and Robotics
+Thesis: "Requirement analysis and evaluation of Reinforcement
+Learning"
+Research Project: "Balance control for the humanoid platform REEM-C"
 
 \
 \
