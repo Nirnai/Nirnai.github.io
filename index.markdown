@@ -5,7 +5,8 @@
 layout: home
 ---
 
-![image](Bewerbungsfoto.jpg)
+<img src="Bewerbungsfoto.jpg" alt="me" width="200"/>
+<!-- ![image](Bewerbungsfoto.jpg) -->
 
 Education
 =========
